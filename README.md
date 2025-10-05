@@ -15,11 +15,11 @@ install visual studio code and install the extensions  xml and xml tools
   - **Andrés mauricio Gómez espinosa** - *Provided README Template* -
 
 See also the list of
-https://www.eniun.com/ejercicios-resueltos-xml/
+https://www.eniun.com/
 
 ## Acknowledgments
 
-the page https://www.eniun.com/ejercicios-resueltos-xml/
+the page https://www.eniun.com
 
 https://www.youtube.com/watch?v=ErMT3ShkOL4
   - Inspiration: exercise of practice
