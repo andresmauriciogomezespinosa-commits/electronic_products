@@ -1,0 +1,10 @@
+<!ELEMENT electronic_products (product+)>
+<!ELEMENT product (name, brand, model, price, description, features)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT brand (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT features (feature+)>
+<!ELEMENT feature (#PCDATA)>
+<!ATTLIST feature name CDATA #REQUIRED>

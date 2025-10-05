@@ -1,0 +1,27 @@
+<!DOCTYPE electronic_products SYSTEM "electronic_products.dtd">
+<electronic_products>
+    <product>
+        <name>Smartphone</name>
+        <brand> xiaomi</brand>
+        <model> Redmi Note 10</model>
+        <price> 199.99</price>
+        <description> Smartphone de gama media con buena relación calidad-precio.</description>
+        <features>
+            <feature name="Pantalla">5.5 pulgadas</feature>
+            <feature name="Procesador">Snapdragon 855</feature>
+            <feature name="Memoria RAM">6 GB</feature>
+        </features>
+    </product>
+    <product>
+        <name>Tablet</name>
+        <brand>Samsung</brand>
+        <model>Galaxy Tab S7</model>
+        <price>649.99</price>
+        <description>Tablet premium con pantalla AMOLED y S Pen incluido.</description>
+        <features>
+            <feature name="Pantalla">11 pulgadas</feature>
+            <feature name="Procesador">Snapdragon 865+</feature>
+            <feature name="Memoria RAM">8 GB</feature>
+        </features>
+    </product>
+</electronic_products>
